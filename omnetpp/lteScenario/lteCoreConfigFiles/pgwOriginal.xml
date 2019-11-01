@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<config>
+
+	<!-- from GTP tunnel information to GTP tunnel information -->
+	<teidTable>
+		<!-- Local Address -->
+		<teid 
+			teidIn  ="0"
+			teidOut ="-1"
+			nextHop ="0.0.0.0"
+		/>
+	</teidTable>
+	
+	
+	<!-- from tftIdentifier to GTP tunnel information -->
+	<tftTable>
+		<tft 
+			tftId   ="1"
+			teidOut ="1"
+			nextHop ="192.168.20.1"
+		/>
+		<tft 
+			tftId   ="2"
+			teidOut ="2"
+			nextHop ="192.168.20.1"
+		/>
+		<tft 
+			tftId   ="3"
+			teidOut ="3"
+			nextHop ="192.168.20.1"
+		/>
+		<tft 
+			tftId   ="4"
+			teidOut ="4"
+			nextHop ="192.168.20.1"
+		/>
+		<tft 
+			tftId   ="5"
+			teidOut ="5"
+			nextHop ="192.168.18.1"
+		/>
+		<tft 
+			tftId   ="6"
+			teidOut ="6"
+			nextHop ="192.168.18.1"
+		/>
+		<tft 
+			tftId   ="7"
+			teidOut ="7"
+			nextHop ="192.168.18.1"
+		/>
+		<tft 
+			tftId   ="8"
+			teidOut ="8"
+			nextHop ="192.168.18.1"
+		/>
+	</tftTable>
+	
+	<!-- from destination address to tftIdentifier -->
+	<filterTable>
+		<filter
+			destName   = "UE1"
+			tftId      = "1"     
+		/>
+		<filter
+			destName   = "UE2"
+			tftId      = "2"     
+		/>
+		<filter
+			destName   = "UE3"
+			tftId      = "3"     
+		/>
+		<filter
+			destName   = "UE4"
+			tftId      = "4"     
+		/>
+		<filter
+			destName   = "UE5"
+			tftId      = "5"     
+		/>
+		<filter
+			destName   = "UE6"
+			tftId      = "6"     
+		/>
+		<filter
+			destName   = "UE7"
+			tftId      = "7"     
+		/>
+		<filter
+			destName   = "UE8"
+			tftId      = "8"     
+		/>
+	</filterTable>
+</config>

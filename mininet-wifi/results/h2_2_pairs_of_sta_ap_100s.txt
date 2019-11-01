@@ -1,0 +1,107 @@
+h2: ------------------------------------------------------------
+h2: Server listening on TCP port 5001
+h2: TCP window size: 85.3 KByte (default)
+h2: ------------------------------------------------------------
+h2: [  4] local 10.1.2.3 port 5001 connected with 10.0.0.5 port 30005
+h2: [ ID] Interval       Transfer     Bandwidth
+h2: [  4]  0.0- 1.0 sec   286 KBytes  2.34 Mbits/sec
+h2: [  4]  1.0- 2.0 sec   592 KBytes  4.85 Mbits/sec
+h2: [  4]  2.0- 3.0 sec   679 KBytes  5.56 Mbits/sec
+h2: [  4]  3.0- 4.0 sec   699 KBytes  5.72 Mbits/sec
+h2: [  4]  4.0- 5.0 sec   665 KBytes  5.44 Mbits/sec
+h2: [  4]  5.0- 6.0 sec   704 KBytes  5.77 Mbits/sec
+h2: [  4]  6.0- 7.0 sec   680 KBytes  5.57 Mbits/sec
+h2: [  4]  7.0- 8.0 sec   694 KBytes  5.69 Mbits/sec
+h2: [  4]  8.0- 9.0 sec   687 KBytes  5.63 Mbits/sec
+h2: [  4]  9.0-10.0 sec   667 KBytes  5.47 Mbits/sec
+h2: [  4] 10.0-11.0 sec   684 KBytes  5.61 Mbits/sec
+h2: [  4] 11.0-12.0 sec   676 KBytes  5.54 Mbits/sec
+h2: [  4] 12.0-13.0 sec   693 KBytes  5.68 Mbits/sec
+h2: [  4] 13.0-14.0 sec   639 KBytes  5.24 Mbits/sec
+h2: [  4] 14.0-15.0 sec   690 KBytes  5.65 Mbits/sec
+h2: [  4] 15.0-16.0 sec   686 KBytes  5.62 Mbits/sec
+h2: [  4] 16.0-17.0 sec   676 KBytes  5.54 Mbits/sec
+h2: [  4] 17.0-18.0 sec   655 KBytes  5.36 Mbits/sec
+h2: [  4] 18.0-19.0 sec   701 KBytes  5.75 Mbits/sec
+h2: [  4] 19.0-20.0 sec   691 KBytes  5.66 Mbits/sec
+h2: [  4] 20.0-21.0 sec   649 KBytes  5.32 Mbits/sec
+h2: [  4] 21.0-22.0 sec   704 KBytes  5.77 Mbits/sec
+h2: [  4] 22.0-23.0 sec   682 KBytes  5.58 Mbits/sec
+h2: [  4] 23.0-24.0 sec   665 KBytes  5.44 Mbits/sec
+h2: [  4] 24.0-25.0 sec   696 KBytes  5.70 Mbits/sec
+h2: [  4] 25.0-26.0 sec   696 KBytes  5.70 Mbits/sec
+h2: [  4] 26.0-27.0 sec   690 KBytes  5.65 Mbits/sec
+h2: [  4] 27.0-28.0 sec   687 KBytes  5.63 Mbits/sec
+h2: [  4] 28.0-29.0 sec   699 KBytes  5.72 Mbits/sec
+h2: [  4] 29.0-30.0 sec   687 KBytes  5.63 Mbits/sec
+h2: [  4] 30.0-31.0 sec   676 KBytes  5.54 Mbits/sec
+h2: [  4] 31.0-32.0 sec   687 KBytes  5.63 Mbits/sec
+h2: [  4] 32.0-33.0 sec   670 KBytes  5.49 Mbits/sec
+h2: [  4] 33.0-34.0 sec   687 KBytes  5.63 Mbits/sec
+h2: [  4] 34.0-35.0 sec   679 KBytes  5.56 Mbits/sec
+h2: [  4] 35.0-36.0 sec   684 KBytes  5.61 Mbits/sec
+h2: [  4] 36.0-37.0 sec   666 KBytes  5.46 Mbits/sec
+h2: [  4] 37.0-38.0 sec   672 KBytes  5.50 Mbits/sec
+h2: [  4] 38.0-39.0 sec   662 KBytes  5.42 Mbits/sec
+h2: [  4] 39.0-40.0 sec   673 KBytes  5.51 Mbits/sec
+h2: [  4] 40.0-41.0 sec   682 KBytes  5.58 Mbits/sec
+h2: [  4] 41.0-42.0 sec   690 KBytes  5.65 Mbits/sec
+h2: [  4] 42.0-43.0 sec   690 KBytes  5.65 Mbits/sec
+h2: [  4] 43.0-44.0 sec   686 KBytes  5.62 Mbits/sec
+h2: [  4] 44.0-45.0 sec   686 KBytes  5.62 Mbits/sec
+h2: [  4] 45.0-46.0 sec   662 KBytes  5.42 Mbits/sec
+h2: [  4] 46.0-47.0 sec   682 KBytes  5.58 Mbits/sec
+h2: [  4] 47.0-48.0 sec   670 KBytes  5.49 Mbits/sec
+h2: [  4] 48.0-49.0 sec   667 KBytes  5.47 Mbits/sec
+h2: [  4] 49.0-50.0 sec   666 KBytes  5.46 Mbits/sec
+h2: [  4] 50.0-51.0 sec   691 KBytes  5.66 Mbits/sec
+h2: [  4] 51.0-52.0 sec   663 KBytes  5.43 Mbits/sec
+h2: [  4] 52.0-53.0 sec   672 KBytes  5.50 Mbits/sec
+h2: [  4] 53.0-54.0 sec   684 KBytes  5.61 Mbits/sec
+h2: [  4] 54.0-55.0 sec   687 KBytes  5.63 Mbits/sec
+h2: [  4] 55.0-56.0 sec   690 KBytes  5.65 Mbits/sec
+h2: [  4] 56.0-57.0 sec   665 KBytes  5.44 Mbits/sec
+h2: [  4] 57.0-58.0 sec   710 KBytes  5.82 Mbits/sec
+h2: [  4] 58.0-59.0 sec   670 KBytes  5.49 Mbits/sec
+h2: [  4] 59.0-60.0 sec   669 KBytes  5.48 Mbits/sec
+h2: [  4] 60.0-61.0 sec   672 KBytes  5.50 Mbits/sec
+h2: [  4] 61.0-62.0 sec   689 KBytes  5.64 Mbits/sec
+h2: [  4] 62.0-63.0 sec   684 KBytes  5.61 Mbits/sec
+h2: [  4] 63.0-64.0 sec   686 KBytes  5.62 Mbits/sec
+h2: [  4] 64.0-65.0 sec   699 KBytes  5.72 Mbits/sec
+h2: [  4] 65.0-66.0 sec   665 KBytes  5.44 Mbits/sec
+h2: [  4] 66.0-67.0 sec   679 KBytes  5.56 Mbits/sec
+h2: [  4] 67.0-68.0 sec   669 KBytes  5.48 Mbits/sec
+h2: [  4] 68.0-69.0 sec   700 KBytes  5.73 Mbits/sec
+h2: [  4] 69.0-70.0 sec   676 KBytes  5.54 Mbits/sec
+h2: [  4] 70.0-71.0 sec   666 KBytes  5.46 Mbits/sec
+h2: [  4] 71.0-72.0 sec   686 KBytes  5.62 Mbits/sec
+h2: [  4] 72.0-73.0 sec   699 KBytes  5.72 Mbits/sec
+h2: [  4] 73.0-74.0 sec   686 KBytes  5.62 Mbits/sec
+h2: [  4] 74.0-75.0 sec   680 KBytes  5.57 Mbits/sec
+h2: [  4] 75.0-76.0 sec   699 KBytes  5.72 Mbits/sec
+h2: [  4] 76.0-77.0 sec   677 KBytes  5.55 Mbits/sec
+h2: [  4] 77.0-78.0 sec   683 KBytes  5.60 Mbits/sec
+h2: [  4] 78.0-79.0 sec   689 KBytes  5.64 Mbits/sec
+h2: [  4] 79.0-80.0 sec   682 KBytes  5.58 Mbits/sec
+h2: [  4] 80.0-81.0 sec   675 KBytes  5.53 Mbits/sec
+h2: [  4] 81.0-82.0 sec   665 KBytes  5.44 Mbits/sec
+h2: [  4] 82.0-83.0 sec   694 KBytes  5.69 Mbits/sec
+h2: [  4] 83.0-84.0 sec   659 KBytes  5.40 Mbits/sec
+h2: [  4] 84.0-85.0 sec   690 KBytes  5.65 Mbits/sec
+h2: [  4] 85.0-86.0 sec   669 KBytes  5.48 Mbits/sec
+h2: [  4] 86.0-87.0 sec   684 KBytes  5.61 Mbits/sec
+h2: [  4] 87.0-88.0 sec   694 KBytes  5.69 Mbits/sec
+h2: [  4] 88.0-89.0 sec   687 KBytes  5.63 Mbits/sec
+h2: [  4] 89.0-90.0 sec   680 KBytes  5.57 Mbits/sec
+h2: [  4] 90.0-91.0 sec   677 KBytes  5.55 Mbits/sec
+h2: [  4] 91.0-92.0 sec   659 KBytes  5.40 Mbits/sec
+h2: [  4] 92.0-93.0 sec   675 KBytes  5.53 Mbits/sec
+h2: [  4] 93.0-94.0 sec   686 KBytes  5.62 Mbits/sec
+h2: [  4] 94.0-95.0 sec   682 KBytes  5.58 Mbits/sec
+h2: [  4] 95.0-96.0 sec   686 KBytes  5.62 Mbits/sec
+h2: [  4] 96.0-97.0 sec   665 KBytes  5.44 Mbits/sec
+h2: [  4] 97.0-98.0 sec   665 KBytes  5.44 Mbits/sec
+h2: [  4] 98.0-99.0 sec   683 KBytes  5.60 Mbits/sec
+h2: [  4] 99.0-100.0 sec   686 KBytes  5.62 Mbits/sec
+h2: [  4]  0.0-100.1 sec  66.1 MBytes  5.53 Mbits/sec

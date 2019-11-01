@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<config>
+	<!-- from GTP tunnel information to GTP tunnel information -->
+	<teidTable>
+		<teid 
+			teidIn  ="1"
+			teidOut ="0"
+			nextHop ="192.168.0.1"
+		/>
+		<teid 
+			teidIn  ="11"
+			teidOut ="0"
+			nextHop ="192.168.5.1"
+		/>
+		<teid 
+			teidIn  ="2"
+			teidOut ="0"
+			nextHop ="192.168.0.1"
+		/>
+		<teid 
+			teidIn  ="12"
+			teidOut ="0"
+			nextHop ="192.168.5.1"
+		/>
+		<teid 
+			teidIn  ="3"
+			teidOut ="0"
+			nextHop ="192.168.0.1"
+		/>
+		<teid 
+			teidIn  ="13"
+			teidOut ="0"
+			nextHop ="192.168.5.1"
+		/>
+		<teid 
+			teidIn  ="4"
+			teidOut ="0"
+			nextHop ="192.168.0.1"
+		/>
+		<teid 
+			teidIn  ="14"
+			teidOut ="0"
+			nextHop ="192.168.5.1"
+		/>
+		
+	</teidTable>	
+</config>

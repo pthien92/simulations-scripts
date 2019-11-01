@@ -1,0 +1,1337 @@
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.949s)
+Simulation Time = 1
+(TCP) WAN Bytes received by server 1: 0 (0 Mbps)
+(TCP) WAN Bytes received by server 2: 1442000 (11.536 Mbps)
+(TCP) WAN Bytes received by both server : (11.536 Mbps)
+(TCP) LTE Bytes received by server 1: 0 (0 Mbps)
+(TCP) LTE Bytes received by server 2: 0 (0 Mbps)
+(TCP) LTE Bytes received by both server : (0 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 11.536 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.941s)
+Simulation Time = 2
+(TCP) WAN Bytes received by server 1: 954800 (3.8192 Mbps)
+(TCP) WAN Bytes received by server 2: 2683800 (10.7352 Mbps)
+(TCP) WAN Bytes received by both server : (14.5544 Mbps)
+(TCP) LTE Bytes received by server 1: 0 (0 Mbps)
+(TCP) LTE Bytes received by server 2: 0 (0 Mbps)
+(TCP) LTE Bytes received by both server : (0 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 14.5544 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.950s)
+Simulation Time = 3
+(TCP) WAN Bytes received by server 1: 1621200 (4.3232 Mbps)
+(TCP) WAN Bytes received by server 2: 3138800 (8.37013 Mbps)
+(TCP) WAN Bytes received by both server : (12.6933 Mbps)
+(TCP) LTE Bytes received by server 1: 69696 (0.185856 Mbps)
+(TCP) LTE Bytes received by server 2: 34848 (0.092928 Mbps)
+(TCP) LTE Bytes received by both server : (0.278784 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 12.9721 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.962s)
+Simulation Time = 4
+(TCP) WAN Bytes received by server 1: 1621200 (3.2424 Mbps)
+(TCP) WAN Bytes received by server 2: 3196200 (6.3924 Mbps)
+(TCP) WAN Bytes received by both server : (9.6348 Mbps)
+(TCP) LTE Bytes received by server 1: 72019 (0.144038 Mbps)
+(TCP) LTE Bytes received by server 2: 79860 (0.15972 Mbps)
+(TCP) LTE Bytes received by both server : (0.303758 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 9.93856 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.929s)
+Simulation Time = 5
+(TCP) WAN Bytes received by server 1: 1622600 (2.59616 Mbps)
+(TCP) WAN Bytes received by server 2: 3217200 (5.14752 Mbps)
+(TCP) WAN Bytes received by both server : (7.74368 Mbps)
+(TCP) LTE Bytes received by server 1: 74052 (0.118483 Mbps)
+(TCP) LTE Bytes received by server 2: 151759 (0.242814 Mbps)
+(TCP) LTE Bytes received by both server : (0.361298 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 8.10498 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.942s)
+Simulation Time = 6
+(TCP) WAN Bytes received by server 1: 1988000 (2.65067 Mbps)
+(TCP) WAN Bytes received by server 2: 3178000 (4.23733 Mbps)
+(TCP) WAN Bytes received by both server : (6.888 Mbps)
+(TCP) LTE Bytes received by server 1: 172062 (0.229416 Mbps)
+(TCP) LTE Bytes received by server 2: 128017 (0.170689 Mbps)
+(TCP) LTE Bytes received by both server : (0.400105 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 7.28811 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.955s)
+Simulation Time = 7
+(TCP) WAN Bytes received by server 1: 1832600 (2.0944 Mbps)
+(TCP) WAN Bytes received by server 2: 3158400 (3.6096 Mbps)
+(TCP) WAN Bytes received by both server : (5.704 Mbps)
+(TCP) LTE Bytes received by server 1: 60984 (0.069696 Mbps)
+(TCP) LTE Bytes received by server 2: 220939 (0.252502 Mbps)
+(TCP) LTE Bytes received by both server : (0.322198 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 6.0262 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.961s)
+Simulation Time = 8
+(TCP) WAN Bytes received by server 1: 1702400 (1.7024 Mbps)
+(TCP) WAN Bytes received by server 2: 3311000 (3.311 Mbps)
+(TCP) WAN Bytes received by both server : (5.0134 Mbps)
+(TCP) LTE Bytes received by server 1: 349730 (0.34973 Mbps)
+(TCP) LTE Bytes received by server 2: 262248 (0.262248 Mbps)
+(TCP) LTE Bytes received by both server : (0.611978 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 5.62538 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.937s)
+Simulation Time = 9
+(TCP) WAN Bytes received by server 1: 2535400 (2.25369 Mbps)
+(TCP) WAN Bytes received by server 2: 4348400 (3.86524 Mbps)
+(TCP) WAN Bytes received by both server : (6.11893 Mbps)
+(TCP) LTE Bytes received by server 1: 312495 (0.277773 Mbps)
+(TCP) LTE Bytes received by server 2: 330820 (0.294062 Mbps)
+(TCP) LTE Bytes received by both server : (0.571836 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 6.69077 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.941s)
+Simulation Time = 10
+(TCP) WAN Bytes received by server 1: 1992200 (1.59376 Mbps)
+(TCP) WAN Bytes received by server 2: 3560200 (2.84816 Mbps)
+(TCP) WAN Bytes received by both server : (4.44192 Mbps)
+(TCP) LTE Bytes received by server 1: 181621 (0.145297 Mbps)
+(TCP) LTE Bytes received by server 2: 437376 (0.349901 Mbps)
+(TCP) LTE Bytes received by both server : (0.495198 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 4.93712 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.987s)
+Simulation Time = 11
+(TCP) WAN Bytes received by server 1: 1705200 (1.24015 Mbps)
+(TCP) WAN Bytes received by server 2: 3418800 (2.4864 Mbps)
+(TCP) WAN Bytes received by both server : (3.72655 Mbps)
+(TCP) LTE Bytes received by server 1: 429729 (0.31253 Mbps)
+(TCP) LTE Bytes received by server 2: 449692 (0.327049 Mbps)
+(TCP) LTE Bytes received by both server : (0.639579 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 4.36612 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.927s)
+Simulation Time = 12
+(TCP) WAN Bytes received by server 1: 1670200 (1.11347 Mbps)
+(TCP) WAN Bytes received by server 2: 3164000 (2.10933 Mbps)
+(TCP) WAN Bytes received by both server : (3.2228 Mbps)
+(TCP) LTE Bytes received by server 1: 825278 (0.550185 Mbps)
+(TCP) LTE Bytes received by server 2: 248939 (0.165959 Mbps)
+(TCP) LTE Bytes received by both server : (0.716145 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.93894 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.982s)
+Simulation Time = 13
+(TCP) WAN Bytes received by server 1: 2052400 (1.26302 Mbps)
+(TCP) WAN Bytes received by server 2: 3161200 (1.94535 Mbps)
+(TCP) WAN Bytes received by both server : (3.20837 Mbps)
+(TCP) LTE Bytes received by server 1: 666882 (0.410389 Mbps)
+(TCP) LTE Bytes received by server 2: 263380 (0.16208 Mbps)
+(TCP) LTE Bytes received by both server : (0.572469 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.78084 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.016s)
+Simulation Time = 14
+(TCP) WAN Bytes received by server 1: 2333800 (1.3336 Mbps)
+(TCP) WAN Bytes received by server 2: 3487400 (1.9928 Mbps)
+(TCP) WAN Bytes received by both server : (3.3264 Mbps)
+(TCP) LTE Bytes received by server 1: 306080 (0.174903 Mbps)
+(TCP) LTE Bytes received by server 2: 922313 (0.527036 Mbps)
+(TCP) LTE Bytes received by both server : (0.701939 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 4.02834 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.948s)
+Simulation Time = 15
+(TCP) WAN Bytes received by server 1: 1821400 (0.971413 Mbps)
+(TCP) WAN Bytes received by server 2: 3470600 (1.85099 Mbps)
+(TCP) WAN Bytes received by both server : (2.8224 Mbps)
+(TCP) LTE Bytes received by server 1: 1060265 (0.565475 Mbps)
+(TCP) LTE Bytes received by server 2: 318109 (0.169658 Mbps)
+(TCP) LTE Bytes received by both server : (0.735133 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.55753 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.950s)
+Simulation Time = 16
+(TCP) WAN Bytes received by server 1: 1647800 (0.8239 Mbps)
+(TCP) WAN Bytes received by server 2: 3445400 (1.7227 Mbps)
+(TCP) WAN Bytes received by both server : (2.5466 Mbps)
+(TCP) LTE Bytes received by server 1: 863383 (0.431692 Mbps)
+(TCP) LTE Bytes received by server 2: 624072 (0.312036 Mbps)
+(TCP) LTE Bytes received by both server : (0.743727 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.29033 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.938s)
+Simulation Time = 17
+(TCP) WAN Bytes received by server 1: 4597600 (2.16358 Mbps)
+(TCP) WAN Bytes received by server 2: 5091800 (2.39614 Mbps)
+(TCP) WAN Bytes received by both server : (4.55972 Mbps)
+(TCP) LTE Bytes received by server 1: 874597 (0.411575 Mbps)
+(TCP) LTE Bytes received by server 2: 164802 (0.0775539 Mbps)
+(TCP) LTE Bytes received by both server : (0.489129 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 5.04885 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.999s)
+Simulation Time = 18
+(TCP) WAN Bytes received by server 1: 1824200 (0.810756 Mbps)
+(TCP) WAN Bytes received by server 2: 3241000 (1.44044 Mbps)
+(TCP) WAN Bytes received by both server : (2.2512 Mbps)
+(TCP) LTE Bytes received by server 1: 924380 (0.410836 Mbps)
+(TCP) LTE Bytes received by server 2: 397983 (0.176881 Mbps)
+(TCP) LTE Bytes received by both server : (0.587717 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.83892 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.983s)
+Simulation Time = 19
+(TCP) WAN Bytes received by server 1: 2724400 (1.14712 Mbps)
+(TCP) WAN Bytes received by server 2: 4851000 (2.04253 Mbps)
+(TCP) WAN Bytes received by both server : (3.18964 Mbps)
+(TCP) LTE Bytes received by server 1: 616095 (0.259408 Mbps)
+(TCP) LTE Bytes received by server 2: 782140 (0.329322 Mbps)
+(TCP) LTE Bytes received by both server : (0.588731 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.77837 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.952s)
+Simulation Time = 20
+(TCP) WAN Bytes received by server 1: 2136400 (0.85456 Mbps)
+(TCP) WAN Bytes received by server 2: 4204200 (1.68168 Mbps)
+(TCP) WAN Bytes received by both server : (2.53624 Mbps)
+(TCP) LTE Bytes received by server 1: 849085 (0.339634 Mbps)
+(TCP) LTE Bytes received by server 2: 922209 (0.368884 Mbps)
+(TCP) LTE Bytes received by both server : (0.708518 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.24476 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.961s)
+Simulation Time = 21
+(TCP) WAN Bytes received by server 1: 1810200 (0.6896 Mbps)
+(TCP) WAN Bytes received by server 2: 5131000 (1.95467 Mbps)
+(TCP) WAN Bytes received by both server : (2.64427 Mbps)
+(TCP) LTE Bytes received by server 1: 623719 (0.237607 Mbps)
+(TCP) LTE Bytes received by server 2: 1299720 (0.495131 Mbps)
+(TCP) LTE Bytes received by both server : (0.732739 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.37701 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.945s)
+Simulation Time = 22
+(TCP) WAN Bytes received by server 1: 1804600 (0.656218 Mbps)
+(TCP) WAN Bytes received by server 2: 7004200 (2.54698 Mbps)
+(TCP) WAN Bytes received by both server : (3.2032 Mbps)
+(TCP) LTE Bytes received by server 1: 317226 (0.115355 Mbps)
+(TCP) LTE Bytes received by server 2: 1404129 (0.510592 Mbps)
+(TCP) LTE Bytes received by both server : (0.625947 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.82915 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.921s)
+Simulation Time = 23
+(TCP) WAN Bytes received by server 1: 2734200 (0.951026 Mbps)
+(TCP) WAN Bytes received by server 2: 3732400 (1.29823 Mbps)
+(TCP) WAN Bytes received by both server : (2.24925 Mbps)
+(TCP) LTE Bytes received by server 1: 1155656 (0.401967 Mbps)
+(TCP) LTE Bytes received by server 2: 592336 (0.20603 Mbps)
+(TCP) LTE Bytes received by both server : (0.607997 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.85725 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.958s)
+Simulation Time = 24
+(TCP) WAN Bytes received by server 1: 2762200 (0.920733 Mbps)
+(TCP) WAN Bytes received by server 2: 4481400 (1.4938 Mbps)
+(TCP) WAN Bytes received by both server : (2.41453 Mbps)
+(TCP) LTE Bytes received by server 1: 849770 (0.283257 Mbps)
+(TCP) LTE Bytes received by server 2: 1281307 (0.427102 Mbps)
+(TCP) LTE Bytes received by both server : (0.710359 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.12489 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.936s)
+Simulation Time = 25
+(TCP) WAN Bytes received by server 1: 2658600 (0.850752 Mbps)
+(TCP) WAN Bytes received by server 2: 3263400 (1.04429 Mbps)
+(TCP) WAN Bytes received by both server : (1.89504 Mbps)
+(TCP) LTE Bytes received by server 1: 1002056 (0.320658 Mbps)
+(TCP) LTE Bytes received by server 2: 1283047 (0.410575 Mbps)
+(TCP) LTE Bytes received by both server : (0.731233 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.62627 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.938s)
+Simulation Time = 26
+(TCP) WAN Bytes received by server 1: 3354400 (1.03212 Mbps)
+(TCP) WAN Bytes received by server 2: 4655000 (1.43231 Mbps)
+(TCP) WAN Bytes received by both server : (2.46443 Mbps)
+(TCP) LTE Bytes received by server 1: 1199465 (0.369066 Mbps)
+(TCP) LTE Bytes received by server 2: 625940 (0.192597 Mbps)
+(TCP) LTE Bytes received by both server : (0.561663 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.02609 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.979s)
+Simulation Time = 27
+(TCP) WAN Bytes received by server 1: 3885000 (1.15111 Mbps)
+(TCP) WAN Bytes received by server 2: 5870200 (1.73932 Mbps)
+(TCP) WAN Bytes received by both server : (2.89043 Mbps)
+(TCP) LTE Bytes received by server 1: 377443 (0.111835 Mbps)
+(TCP) LTE Bytes received by server 2: 1868437 (0.553611 Mbps)
+(TCP) LTE Bytes received by both server : (0.665446 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.55588 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.969s)
+Simulation Time = 28
+(TCP) WAN Bytes received by server 1: 2258200 (0.6452 Mbps)
+(TCP) WAN Bytes received by server 2: 5583200 (1.5952 Mbps)
+(TCP) WAN Bytes received by both server : (2.2404 Mbps)
+(TCP) LTE Bytes received by server 1: 1429941 (0.408555 Mbps)
+(TCP) LTE Bytes received by server 2: 640895 (0.183113 Mbps)
+(TCP) LTE Bytes received by both server : (0.591667 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.83207 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.990s)
+Simulation Time = 29
+(TCP) WAN Bytes received by server 1: 2235800 (0.616772 Mbps)
+(TCP) WAN Bytes received by server 2: 4691400 (1.29418 Mbps)
+(TCP) WAN Bytes received by both server : (1.91095 Mbps)
+(TCP) LTE Bytes received by server 1: 1427259 (0.393727 Mbps)
+(TCP) LTE Bytes received by server 2: 1218573 (0.336158 Mbps)
+(TCP) LTE Bytes received by both server : (0.729885 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.64084 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.119s)
+Simulation Time = 30
+(TCP) WAN Bytes received by server 1: 3323600 (0.886293 Mbps)
+(TCP) WAN Bytes received by server 2: 3172400 (0.845973 Mbps)
+(TCP) WAN Bytes received by both server : (1.73227 Mbps)
+(TCP) LTE Bytes received by server 1: 340447 (0.0907859 Mbps)
+(TCP) LTE Bytes received by server 2: 2187177 (0.583247 Mbps)
+(TCP) LTE Bytes received by both server : (0.674033 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.4063 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.070s)
+[01;31mInterrupted[0m 
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+[01;31mInterrupted[0m 
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.014s)
+Simulation Time = 32
+(TCP) WAN Bytes received by server 1: 4809000 (1.20225 Mbps)
+(TCP) WAN Bytes received by server 2: 6990200 (1.74755 Mbps)
+(TCP) WAN Bytes received by both server : (2.9498 Mbps)
+(TCP) LTE Bytes received by server 1: 933547 (0.233387 Mbps)
+(TCP) LTE Bytes received by server 2: 1171657 (0.292914 Mbps)
+(TCP) LTE Bytes received by both server : (0.526301 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.4761 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.957s)
+[01;31mInterrupted[0m 
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+[01;31mInterrupted[0m 
+[01;31mInterrupted[0m 
+[01;31mInterrupted[0m 
+[01;31mInterrupted[0m 
+[01;31mInterrupted[0m 
+[01;31mInterrupted[0m 
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+[01;31mInterrupted[0m 
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.934s)
+Simulation Time = 31
+(TCP) WAN Bytes received by server 1: 2987600 (0.770994 Mbps)
+(TCP) WAN Bytes received by server 2: 3239600 (0.836026 Mbps)
+(TCP) WAN Bytes received by both server : (1.60702 Mbps)
+(TCP) LTE Bytes received by server 1: 1730300 (0.446529 Mbps)
+(TCP) LTE Bytes received by server 2: 850510 (0.219486 Mbps)
+(TCP) LTE Bytes received by both server : (0.666015 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.27303 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.067s)
+Simulation Time = 32
+(TCP) WAN Bytes received by server 1: 3813600 (0.9534 Mbps)
+(TCP) WAN Bytes received by server 2: 3589600 (0.8974 Mbps)
+(TCP) WAN Bytes received by both server : (1.8508 Mbps)
+(TCP) LTE Bytes received by server 1: 638006 (0.159501 Mbps)
+(TCP) LTE Bytes received by server 2: 2021151 (0.505288 Mbps)
+(TCP) LTE Bytes received by both server : (0.664789 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.51559 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.947s)
+Simulation Time = 33
+(TCP) WAN Bytes received by server 1: 8346800 (2.02347 Mbps)
+(TCP) WAN Bytes received by server 2: 4814600 (1.16718 Mbps)
+(TCP) WAN Bytes received by both server : (3.19064 Mbps)
+(TCP) LTE Bytes received by server 1: 1854040 (0.449464 Mbps)
+(TCP) LTE Bytes received by server 2: 407801 (0.0988608 Mbps)
+(TCP) LTE Bytes received by both server : (0.548325 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.73897 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.987s)
+Simulation Time = 34
+(TCP) WAN Bytes received by server 1: 3242400 (0.762918 Mbps)
+(TCP) WAN Bytes received by server 2: 4361000 (1.02612 Mbps)
+(TCP) WAN Bytes received by both server : (1.78904 Mbps)
+(TCP) LTE Bytes received by server 1: 1502061 (0.353426 Mbps)
+(TCP) LTE Bytes received by server 2: 1538558 (0.362014 Mbps)
+(TCP) LTE Bytes received by both server : (0.71544 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.50448 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.042s)
+Simulation Time = 35
+(TCP) WAN Bytes received by server 1: 3449600 (0.78848 Mbps)
+(TCP) WAN Bytes received by server 2: 6314000 (1.4432 Mbps)
+(TCP) WAN Bytes received by both server : (2.23168 Mbps)
+(TCP) LTE Bytes received by server 1: 1066307 (0.243727 Mbps)
+(TCP) LTE Bytes received by server 2: 2199611 (0.502768 Mbps)
+(TCP) LTE Bytes received by both server : (0.746496 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.97818 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.039s)
+Simulation Time = 36
+(TCP) WAN Bytes received by server 1: 2135000 (0.474444 Mbps)
+(TCP) WAN Bytes received by server 2: 3197600 (0.710578 Mbps)
+(TCP) WAN Bytes received by both server : (1.18502 Mbps)
+(TCP) LTE Bytes received by server 1: 1466645 (0.325921 Mbps)
+(TCP) LTE Bytes received by server 2: 2057629 (0.457251 Mbps)
+(TCP) LTE Bytes received by both server : (0.783172 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.96819 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.203s)
+Simulation Time = 37
+(TCP) WAN Bytes received by server 1: 4429600 (0.957751 Mbps)
+(TCP) WAN Bytes received by server 2: 2938600 (0.635373 Mbps)
+(TCP) WAN Bytes received by both server : (1.59312 Mbps)
+(TCP) LTE Bytes received by server 1: 1512021 (0.326923 Mbps)
+(TCP) LTE Bytes received by server 2: 1988089 (0.429857 Mbps)
+(TCP) LTE Bytes received by both server : (0.756781 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.3499 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.125s)
+Simulation Time = 38
+(TCP) WAN Bytes received by server 1: 3670800 (0.7728 Mbps)
+(TCP) WAN Bytes received by server 2: 4732000 (0.996211 Mbps)
+(TCP) WAN Bytes received by both server : (1.76901 Mbps)
+(TCP) LTE Bytes received by server 1: 1006954 (0.21199 Mbps)
+(TCP) LTE Bytes received by server 2: 1719805 (0.362064 Mbps)
+(TCP) LTE Bytes received by both server : (0.574055 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.34307 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.049s)
+Simulation Time = 39
+(TCP) WAN Bytes received by server 1: 2524200 (0.517785 Mbps)
+(TCP) WAN Bytes received by server 2: 4509400 (0.925005 Mbps)
+(TCP) WAN Bytes received by both server : (1.44279 Mbps)
+(TCP) LTE Bytes received by server 1: 2490394 (0.51085 Mbps)
+(TCP) LTE Bytes received by server 2: 814716 (0.167121 Mbps)
+(TCP) LTE Bytes received by both server : (0.677971 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.12076 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.102s)
+Simulation Time = 40
+(TCP) WAN Bytes received by server 1: 2090200 (0.41804 Mbps)
+(TCP) WAN Bytes received by server 2: 10452400 (2.09048 Mbps)
+(TCP) WAN Bytes received by both server : (2.50852 Mbps)
+(TCP) LTE Bytes received by server 1: 429820 (0.085964 Mbps)
+(TCP) LTE Bytes received by server 2: 2215791 (0.443158 Mbps)
+(TCP) LTE Bytes received by both server : (0.529122 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.03764 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.122s)
+Simulation Time = 41
+(TCP) WAN Bytes received by server 1: 1348200 (0.263063 Mbps)
+(TCP) WAN Bytes received by server 2: 8401400 (1.6393 Mbps)
+(TCP) WAN Bytes received by both server : (1.90236 Mbps)
+(TCP) LTE Bytes received by server 1: 2081956 (0.406235 Mbps)
+(TCP) LTE Bytes received by server 2: 1584267 (0.309125 Mbps)
+(TCP) LTE Bytes received by both server : (0.715361 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.61772 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.042s)
+Simulation Time = 42
+(TCP) WAN Bytes received by server 1: 3740800 (0.712533 Mbps)
+(TCP) WAN Bytes received by server 2: 4152400 (0.790933 Mbps)
+(TCP) WAN Bytes received by both server : (1.50347 Mbps)
+(TCP) LTE Bytes received by server 1: 1357266 (0.258527 Mbps)
+(TCP) LTE Bytes received by server 2: 2220681 (0.422987 Mbps)
+(TCP) LTE Bytes received by both server : (0.681514 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.18498 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.024s)
+Simulation Time = 43
+(TCP) WAN Bytes received by server 1: 3490200 (0.64934 Mbps)
+(TCP) WAN Bytes received by server 2: 5667200 (1.05436 Mbps)
+(TCP) WAN Bytes received by both server : (1.7037 Mbps)
+(TCP) LTE Bytes received by server 1: 1506087 (0.280202 Mbps)
+(TCP) LTE Bytes received by server 2: 2045384 (0.380537 Mbps)
+(TCP) LTE Bytes received by both server : (0.660739 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.36444 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.868s)
+Simulation Time = 44
+(TCP) WAN Bytes received by server 1: 7316400 (1.33025 Mbps)
+(TCP) WAN Bytes received by server 2: 6398000 (1.16327 Mbps)
+(TCP) WAN Bytes received by both server : (2.49353 Mbps)
+(TCP) LTE Bytes received by server 1: 1986514 (0.361184 Mbps)
+(TCP) LTE Bytes received by server 2: 1704347 (0.309881 Mbps)
+(TCP) LTE Bytes received by both server : (0.671066 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.16459 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.029s)
+Simulation Time = 45
+(TCP) WAN Bytes received by server 1: 1873200 (0.333013 Mbps)
+(TCP) WAN Bytes received by server 2: 12100200 (2.15115 Mbps)
+(TCP) WAN Bytes received by both server : (2.48416 Mbps)
+(TCP) LTE Bytes received by server 1: 1280888 (0.227713 Mbps)
+(TCP) LTE Bytes received by server 2: 2640339 (0.469394 Mbps)
+(TCP) LTE Bytes received by both server : (0.697107 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.18127 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.036s)
+Simulation Time = 46
+(TCP) WAN Bytes received by server 1: 2546600 (0.442887 Mbps)
+(TCP) WAN Bytes received by server 2: 4586400 (0.797635 Mbps)
+(TCP) WAN Bytes received by both server : (1.24052 Mbps)
+(TCP) LTE Bytes received by server 1: 1976720 (0.343777 Mbps)
+(TCP) LTE Bytes received by server 2: 2255966 (0.392342 Mbps)
+(TCP) LTE Bytes received by both server : (0.736119 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.97664 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.104s)
+Simulation Time = 47
+(TCP) WAN Bytes received by server 1: 3669400 (0.624579 Mbps)
+(TCP) WAN Bytes received by server 2: 5685400 (0.967728 Mbps)
+(TCP) WAN Bytes received by both server : (1.59231 Mbps)
+(TCP) LTE Bytes received by server 1: 2262922 (0.385178 Mbps)
+(TCP) LTE Bytes received by server 2: 2089084 (0.355589 Mbps)
+(TCP) LTE Bytes received by both server : (0.740767 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.33307 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.054s)
+Simulation Time = 48
+(TCP) WAN Bytes received by server 1: 3476200 (0.579367 Mbps)
+(TCP) WAN Bytes received by server 2: 5441800 (0.906967 Mbps)
+(TCP) WAN Bytes received by both server : (1.48633 Mbps)
+(TCP) LTE Bytes received by server 1: 3226746 (0.537791 Mbps)
+(TCP) LTE Bytes received by server 2: 795023 (0.132504 Mbps)
+(TCP) LTE Bytes received by both server : (0.670295 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.15663 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.025s)
+Simulation Time = 49
+(TCP) WAN Bytes received by server 1: 9455600 (1.54377 Mbps)
+(TCP) WAN Bytes received by server 2: 3595200 (0.586971 Mbps)
+(TCP) WAN Bytes received by both server : (2.13074 Mbps)
+(TCP) LTE Bytes received by server 1: 386200 (0.0630531 Mbps)
+(TCP) LTE Bytes received by server 2: 3923998 (0.640653 Mbps)
+(TCP) LTE Bytes received by both server : (0.703706 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.83445 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.006s)
+Simulation Time = 50
+(TCP) WAN Bytes received by server 1: 4631200 (0.740992 Mbps)
+(TCP) WAN Bytes received by server 2: 4291000 (0.68656 Mbps)
+(TCP) WAN Bytes received by both server : (1.42755 Mbps)
+(TCP) LTE Bytes received by server 1: 1958100 (0.313296 Mbps)
+(TCP) LTE Bytes received by server 2: 2479079 (0.396653 Mbps)
+(TCP) LTE Bytes received by both server : (0.709949 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.1375 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.095s)
+Simulation Time = 51
+(TCP) WAN Bytes received by server 1: 4944800 (0.775655 Mbps)
+(TCP) WAN Bytes received by server 2: 2959600 (0.464251 Mbps)
+(TCP) WAN Bytes received by both server : (1.23991 Mbps)
+(TCP) LTE Bytes received by server 1: 1440799 (0.226008 Mbps)
+(TCP) LTE Bytes received by server 2: 2949740 (0.462704 Mbps)
+(TCP) LTE Bytes received by both server : (0.688712 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.92862 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.000s)
+Simulation Time = 52
+(TCP) WAN Bytes received by server 1: 2052400 (0.315754 Mbps)
+(TCP) WAN Bytes received by server 2: 6833400 (1.05129 Mbps)
+(TCP) WAN Bytes received by both server : (1.36705 Mbps)
+(TCP) LTE Bytes received by server 1: 1651525 (0.254081 Mbps)
+(TCP) LTE Bytes received by server 2: 2528971 (0.389072 Mbps)
+(TCP) LTE Bytes received by both server : (0.643153 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.0102 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.012s)
+Simulation Time = 53
+(TCP) WAN Bytes received by server 1: 2707600 (0.408694 Mbps)
+(TCP) WAN Bytes received by server 2: 4979800 (0.751668 Mbps)
+(TCP) WAN Bytes received by both server : (1.16036 Mbps)
+(TCP) LTE Bytes received by server 1: 1778481 (0.26845 Mbps)
+(TCP) LTE Bytes received by server 2: 3108429 (0.469197 Mbps)
+(TCP) LTE Bytes received by both server : (0.737647 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.89801 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.064s)
+Simulation Time = 54
+(TCP) WAN Bytes received by server 1: 1477000 (0.218815 Mbps)
+(TCP) WAN Bytes received by server 2: 7464800 (1.1059 Mbps)
+(TCP) WAN Bytes received by both server : (1.32471 Mbps)
+(TCP) LTE Bytes received by server 1: 3323440 (0.492361 Mbps)
+(TCP) LTE Bytes received by server 2: 1646675 (0.243952 Mbps)
+(TCP) LTE Bytes received by both server : (0.736313 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.06102 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.065s)
+Simulation Time = 55
+(TCP) WAN Bytes received by server 1: 7939400 (1.15482 Mbps)
+(TCP) WAN Bytes received by server 2: 7009800 (1.01961 Mbps)
+(TCP) WAN Bytes received by both server : (2.17443 Mbps)
+(TCP) LTE Bytes received by server 1: 1504593 (0.21885 Mbps)
+(TCP) LTE Bytes received by server 2: 2799438 (0.407191 Mbps)
+(TCP) LTE Bytes received by both server : (0.626041 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.80047 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.980s)
+Simulation Time = 56
+(TCP) WAN Bytes received by server 1: 5916400 (0.8452 Mbps)
+(TCP) WAN Bytes received by server 2: 3507000 (0.501 Mbps)
+(TCP) WAN Bytes received by both server : (1.3462 Mbps)
+(TCP) LTE Bytes received by server 1: 4475764 (0.639395 Mbps)
+(TCP) LTE Bytes received by server 2: 587340 (0.0839057 Mbps)
+(TCP) LTE Bytes received by both server : (0.723301 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.0695 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.021s)
+Simulation Time = 57
+(TCP) WAN Bytes received by server 1: 1895600 (0.266049 Mbps)
+(TCP) WAN Bytes received by server 2: 6148800 (0.862989 Mbps)
+(TCP) WAN Bytes received by both server : (1.12904 Mbps)
+(TCP) LTE Bytes received by server 1: 2573949 (0.361256 Mbps)
+(TCP) LTE Bytes received by server 2: 1924805 (0.270148 Mbps)
+(TCP) LTE Bytes received by both server : (0.631404 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.76044 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.074s)
+Simulation Time = 58
+(TCP) WAN Bytes received by server 1: 5355000 (0.738621 Mbps)
+(TCP) WAN Bytes received by server 2: 3225600 (0.44491 Mbps)
+(TCP) WAN Bytes received by both server : (1.18353 Mbps)
+(TCP) LTE Bytes received by server 1: 2912318 (0.401699 Mbps)
+(TCP) LTE Bytes received by server 2: 2492884 (0.343846 Mbps)
+(TCP) LTE Bytes received by both server : (0.745545 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.92908 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.101s)
+Simulation Time = 59
+(TCP) WAN Bytes received by server 1: 4989600 (0.676556 Mbps)
+(TCP) WAN Bytes received by server 2: 8036000 (1.08963 Mbps)
+(TCP) WAN Bytes received by both server : (1.76618 Mbps)
+(TCP) LTE Bytes received by server 1: 2192749 (0.297322 Mbps)
+(TCP) LTE Bytes received by server 2: 2662172 (0.360972 Mbps)
+(TCP) LTE Bytes received by both server : (0.658294 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.42448 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.977s)
+Simulation Time = 60
+(TCP) WAN Bytes received by server 1: 2884000 (0.384533 Mbps)
+(TCP) WAN Bytes received by server 2: 5289200 (0.705227 Mbps)
+(TCP) WAN Bytes received by both server : (1.08976 Mbps)
+(TCP) LTE Bytes received by server 1: 1799880 (0.239984 Mbps)
+(TCP) LTE Bytes received by server 2: 4655748 (0.620766 Mbps)
+(TCP) LTE Bytes received by both server : (0.86075 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.95051 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.993s)
+Simulation Time = 61
+(TCP) WAN Bytes received by server 1: 4807600 (0.630505 Mbps)
+(TCP) WAN Bytes received by server 2: 6371400 (0.835593 Mbps)
+(TCP) WAN Bytes received by both server : (1.4661 Mbps)
+(TCP) LTE Bytes received by server 1: 3852930 (0.505302 Mbps)
+(TCP) LTE Bytes received by server 2: 1945437 (0.255139 Mbps)
+(TCP) LTE Bytes received by both server : (0.760442 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.22654 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.030s)
+Simulation Time = 62
+(TCP) WAN Bytes received by server 1: 4782400 (0.617084 Mbps)
+(TCP) WAN Bytes received by server 2: 5402600 (0.69711 Mbps)
+(TCP) WAN Bytes received by both server : (1.31419 Mbps)
+(TCP) LTE Bytes received by server 1: 4227950 (0.545542 Mbps)
+(TCP) LTE Bytes received by server 2: 1750769 (0.225906 Mbps)
+(TCP) LTE Bytes received by both server : (0.771448 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.08564 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.947s)
+Simulation Time = 63
+(TCP) WAN Bytes received by server 1: 9254000 (1.17511 Mbps)
+(TCP) WAN Bytes received by server 2: 6503000 (0.825778 Mbps)
+(TCP) WAN Bytes received by both server : (2.00089 Mbps)
+(TCP) LTE Bytes received by server 1: 2820934 (0.358214 Mbps)
+(TCP) LTE Bytes received by server 2: 2252125 (0.285984 Mbps)
+(TCP) LTE Bytes received by both server : (0.644198 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.64509 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.129s)
+Simulation Time = 64
+(TCP) WAN Bytes received by server 1: 4045360 (0.50567 Mbps)
+(TCP) WAN Bytes received by server 2: 9161600 (1.1452 Mbps)
+(TCP) WAN Bytes received by both server : (1.65087 Mbps)
+(TCP) LTE Bytes received by server 1: 2856245 (0.357031 Mbps)
+(TCP) LTE Bytes received by server 2: 3294520 (0.411815 Mbps)
+(TCP) LTE Bytes received by both server : (0.768846 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.41972 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.017s)
+Simulation Time = 65
+(TCP) WAN Bytes received by server 1: 9581600 (1.17927 Mbps)
+(TCP) WAN Bytes received by server 2: 8139600 (1.0018 Mbps)
+(TCP) WAN Bytes received by both server : (2.18107 Mbps)
+(TCP) LTE Bytes received by server 1: 4185869 (0.515184 Mbps)
+(TCP) LTE Bytes received by server 2: 1097679 (0.135099 Mbps)
+(TCP) LTE Bytes received by both server : (0.650283 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.83135 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.062s)
+Simulation Time = 66
+(TCP) WAN Bytes received by server 1: 6666800 (0.808097 Mbps)
+(TCP) WAN Bytes received by server 2: 14694400 (1.78114 Mbps)
+(TCP) WAN Bytes received by both server : (2.58924 Mbps)
+(TCP) LTE Bytes received by server 1: 2359651 (0.286018 Mbps)
+(TCP) LTE Bytes received by server 2: 2838701 (0.344085 Mbps)
+(TCP) LTE Bytes received by both server : (0.630103 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.21934 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.089s)
+Simulation Time = 67
+(TCP) WAN Bytes received by server 1: 9671200 (1.15477 Mbps)
+(TCP) WAN Bytes received by server 2: 7658000 (0.914388 Mbps)
+(TCP) WAN Bytes received by both server : (2.06916 Mbps)
+(TCP) LTE Bytes received by server 1: 2328828 (0.278069 Mbps)
+(TCP) LTE Bytes received by server 2: 3131890 (0.373957 Mbps)
+(TCP) LTE Bytes received by both server : (0.652026 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.72118 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.974s)
+Simulation Time = 68
+(TCP) WAN Bytes received by server 1: 1899800 (0.223506 Mbps)
+(TCP) WAN Bytes received by server 2: 6239800 (0.734094 Mbps)
+(TCP) WAN Bytes received by both server : (0.9576 Mbps)
+(TCP) LTE Bytes received by server 1: 5878893 (0.691634 Mbps)
+(TCP) LTE Bytes received by server 2: 956326 (0.112509 Mbps)
+(TCP) LTE Bytes received by both server : (0.804143 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.76174 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.962s)
+Simulation Time = 69
+(TCP) WAN Bytes received by server 1: 3922800 (0.454817 Mbps)
+(TCP) WAN Bytes received by server 2: 8622600 (0.999722 Mbps)
+(TCP) WAN Bytes received by both server : (1.45454 Mbps)
+(TCP) LTE Bytes received by server 1: 3122930 (0.362079 Mbps)
+(TCP) LTE Bytes received by server 2: 3618896 (0.419582 Mbps)
+(TCP) LTE Bytes received by both server : (0.781661 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.2362 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.019s)
+Simulation Time = 70
+(TCP) WAN Bytes received by server 1: 5191200 (0.59328 Mbps)
+(TCP) WAN Bytes received by server 2: 3318000 (0.3792 Mbps)
+(TCP) WAN Bytes received by both server : (0.97248 Mbps)
+(TCP) LTE Bytes received by server 1: 2311989 (0.264227 Mbps)
+(TCP) LTE Bytes received by server 2: 3676642 (0.420188 Mbps)
+(TCP) LTE Bytes received by both server : (0.684415 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.65689 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.016s)
+Simulation Time = 71
+(TCP) WAN Bytes received by server 1: 6397096 (0.7208 Mbps)
+(TCP) WAN Bytes received by server 2: 5661600 (0.637927 Mbps)
+(TCP) WAN Bytes received by both server : (1.35873 Mbps)
+(TCP) LTE Bytes received by server 1: 4185976 (0.471659 Mbps)
+(TCP) LTE Bytes received by server 2: 2458207 (0.276981 Mbps)
+(TCP) LTE Bytes received by both server : (0.74864 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.10737 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.956s)
+Simulation Time = 72
+(TCP) WAN Bytes received by server 1: 8755600 (0.972844 Mbps)
+(TCP) WAN Bytes received by server 2: 6148800 (0.6832 Mbps)
+(TCP) WAN Bytes received by both server : (1.65604 Mbps)
+(TCP) LTE Bytes received by server 1: 687717 (0.076413 Mbps)
+(TCP) LTE Bytes received by server 2: 4996359 (0.555151 Mbps)
+(TCP) LTE Bytes received by both server : (0.631564 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.28761 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.982s)
+Simulation Time = 73
+(TCP) WAN Bytes received by server 1: 1498000 (0.164164 Mbps)
+(TCP) WAN Bytes received by server 2: 22876000 (2.50696 Mbps)
+(TCP) WAN Bytes received by both server : (2.67112 Mbps)
+(TCP) LTE Bytes received by server 1: 3020442 (0.331007 Mbps)
+(TCP) LTE Bytes received by server 2: 2384862 (0.261355 Mbps)
+(TCP) LTE Bytes received by both server : (0.592362 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.26349 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.045s)
+Simulation Time = 74
+(TCP) WAN Bytes received by server 1: 6844600 (0.739957 Mbps)
+(TCP) WAN Bytes received by server 2: 6365800 (0.688195 Mbps)
+(TCP) WAN Bytes received by both server : (1.42815 Mbps)
+(TCP) LTE Bytes received by server 1: 3374622 (0.364824 Mbps)
+(TCP) LTE Bytes received by server 2: 3776138 (0.408231 Mbps)
+(TCP) LTE Bytes received by both server : (0.773055 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.20121 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.940s)
+Simulation Time = 75
+(TCP) WAN Bytes received by server 1: 5447400 (0.581056 Mbps)
+(TCP) WAN Bytes received by server 2: 5719000 (0.610027 Mbps)
+(TCP) WAN Bytes received by both server : (1.19108 Mbps)
+(TCP) LTE Bytes received by server 1: 4722851 (0.503771 Mbps)
+(TCP) LTE Bytes received by server 2: 2669390 (0.284735 Mbps)
+(TCP) LTE Bytes received by both server : (0.788506 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.97959 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.952s)
+Simulation Time = 76
+(TCP) WAN Bytes received by server 1: 6889400 (0.7252 Mbps)
+(TCP) WAN Bytes received by server 2: 8240400 (0.867411 Mbps)
+(TCP) WAN Bytes received by both server : (1.59261 Mbps)
+(TCP) LTE Bytes received by server 1: 3098472 (0.326155 Mbps)
+(TCP) LTE Bytes received by server 2: 3533075 (0.371903 Mbps)
+(TCP) LTE Bytes received by both server : (0.698058 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.29067 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.007s)
+Simulation Time = 77
+(TCP) WAN Bytes received by server 1: 3098200 (0.321891 Mbps)
+(TCP) WAN Bytes received by server 2: 7618800 (0.791564 Mbps)
+(TCP) WAN Bytes received by both server : (1.11345 Mbps)
+(TCP) LTE Bytes received by server 1: 2776418 (0.288459 Mbps)
+(TCP) LTE Bytes received by server 2: 3884611 (0.403596 Mbps)
+(TCP) LTE Bytes received by both server : (0.692055 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.80551 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.989s)
+Simulation Time = 78
+(TCP) WAN Bytes received by server 1: 4230800 (0.433928 Mbps)
+(TCP) WAN Bytes received by server 2: 10998400 (1.12804 Mbps)
+(TCP) WAN Bytes received by both server : (1.56197 Mbps)
+(TCP) LTE Bytes received by server 1: 5215757 (0.534949 Mbps)
+(TCP) LTE Bytes received by server 2: 2218891 (0.227579 Mbps)
+(TCP) LTE Bytes received by both server : (0.762528 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.3245 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.044s)
+Simulation Time = 79
+(TCP) WAN Bytes received by server 1: 9706200 (0.982906 Mbps)
+(TCP) WAN Bytes received by server 2: 4568200 (0.462603 Mbps)
+(TCP) WAN Bytes received by both server : (1.44551 Mbps)
+(TCP) LTE Bytes received by server 1: 6520366 (0.66029 Mbps)
+(TCP) LTE Bytes received by server 2: 571942 (0.0579182 Mbps)
+(TCP) LTE Bytes received by both server : (0.718208 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.16372 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.998s)
+Simulation Time = 80
+(TCP) WAN Bytes received by server 1: 5752600 (0.57526 Mbps)
+(TCP) WAN Bytes received by server 2: 7753200 (0.77532 Mbps)
+(TCP) WAN Bytes received by both server : (1.35058 Mbps)
+(TCP) LTE Bytes received by server 1: 1984921 (0.198492 Mbps)
+(TCP) LTE Bytes received by server 2: 5305081 (0.530508 Mbps)
+(TCP) LTE Bytes received by both server : (0.729 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.07958 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.018s)
+Simulation Time = 81
+(TCP) WAN Bytes received by server 1: 1572200 (0.155279 Mbps)
+(TCP) WAN Bytes received by server 2: 8457400 (0.835299 Mbps)
+(TCP) WAN Bytes received by both server : (0.990578 Mbps)
+(TCP) LTE Bytes received by server 1: 2676719 (0.264367 Mbps)
+(TCP) LTE Bytes received by server 2: 4070434 (0.402018 Mbps)
+(TCP) LTE Bytes received by both server : (0.666385 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.65696 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.128s)
+Simulation Time = 82
+(TCP) WAN Bytes received by server 1: 4982600 (0.486107 Mbps)
+(TCP) WAN Bytes received by server 2: 7266000 (0.708878 Mbps)
+(TCP) WAN Bytes received by both server : (1.19499 Mbps)
+(TCP) LTE Bytes received by server 1: 3393529 (0.331076 Mbps)
+(TCP) LTE Bytes received by server 2: 3895365 (0.380036 Mbps)
+(TCP) LTE Bytes received by both server : (0.711112 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.9061 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.934s)
+Simulation Time = 83
+(TCP) WAN Bytes received by server 1: 4909800 (0.473234 Mbps)
+(TCP) WAN Bytes received by server 2: 7250600 (0.698853 Mbps)
+(TCP) WAN Bytes received by both server : (1.17209 Mbps)
+(TCP) LTE Bytes received by server 1: 2436988 (0.23489 Mbps)
+(TCP) LTE Bytes received by server 2: 5055438 (0.487271 Mbps)
+(TCP) LTE Bytes received by both server : (0.722162 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.89425 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.920s)
+Simulation Time = 84
+(TCP) WAN Bytes received by server 1: 6514200 (0.6204 Mbps)
+(TCP) WAN Bytes received by server 2: 9419200 (0.897067 Mbps)
+(TCP) WAN Bytes received by both server : (1.51747 Mbps)
+(TCP) LTE Bytes received by server 1: 1634577 (0.155674 Mbps)
+(TCP) LTE Bytes received by server 2: 5215991 (0.496761 Mbps)
+(TCP) LTE Bytes received by both server : (0.652435 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.1699 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.933s)
+Simulation Time = 85
+(TCP) WAN Bytes received by server 1: 2142000 (0.2016 Mbps)
+(TCP) WAN Bytes received by server 2: 9615200 (0.90496 Mbps)
+(TCP) WAN Bytes received by both server : (1.10656 Mbps)
+(TCP) LTE Bytes received by server 1: 2318093 (0.218173 Mbps)
+(TCP) LTE Bytes received by server 2: 4640427 (0.436746 Mbps)
+(TCP) LTE Bytes received by both server : (0.65492 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.76148 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.976s)
+Simulation Time = 86
+(TCP) WAN Bytes received by server 1: 6374200 (0.592949 Mbps)
+(TCP) WAN Bytes received by server 2: 4334400 (0.4032 Mbps)
+(TCP) WAN Bytes received by both server : (0.996149 Mbps)
+(TCP) LTE Bytes received by server 1: 4705843 (0.437753 Mbps)
+(TCP) LTE Bytes received by server 2: 2154920 (0.200458 Mbps)
+(TCP) LTE Bytes received by both server : (0.638211 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.63436 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.015s)
+Simulation Time = 87
+(TCP) WAN Bytes received by server 1: 6601000 (0.606989 Mbps)
+(TCP) WAN Bytes received by server 2: 8545600 (0.785802 Mbps)
+(TCP) WAN Bytes received by both server : (1.39279 Mbps)
+(TCP) LTE Bytes received by server 1: 4432728 (0.407607 Mbps)
+(TCP) LTE Bytes received by server 2: 2689400 (0.247301 Mbps)
+(TCP) LTE Bytes received by both server : (0.654908 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.0477 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.990s)
+Simulation Time = 88
+(TCP) WAN Bytes received by server 1: 1401400 (0.1274 Mbps)
+(TCP) WAN Bytes received by server 2: 16948400 (1.54076 Mbps)
+(TCP) WAN Bytes received by both server : (1.66816 Mbps)
+(TCP) LTE Bytes received by server 1: 3863769 (0.351252 Mbps)
+(TCP) LTE Bytes received by server 2: 2672952 (0.242996 Mbps)
+(TCP) LTE Bytes received by both server : (0.594247 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.26241 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.981s)
+Simulation Time = 89
+(TCP) WAN Bytes received by server 1: 22687000 (2.03928 Mbps)
+(TCP) WAN Bytes received by server 2: 10924200 (0.981951 Mbps)
+(TCP) WAN Bytes received by both server : (3.02123 Mbps)
+(TCP) LTE Bytes received by server 1: 5402418 (0.485611 Mbps)
+(TCP) LTE Bytes received by server 2: 1832596 (0.164728 Mbps)
+(TCP) LTE Bytes received by both server : (0.650338 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.67157 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.004s)
+Simulation Time = 90
+(TCP) WAN Bytes received by server 1: 2356200 (0.20944 Mbps)
+(TCP) WAN Bytes received by server 2: 9854024 (0.875913 Mbps)
+(TCP) WAN Bytes received by both server : (1.08535 Mbps)
+(TCP) LTE Bytes received by server 1: 4502193 (0.400195 Mbps)
+(TCP) LTE Bytes received by server 2: 3321192 (0.295217 Mbps)
+(TCP) LTE Bytes received by both server : (0.695412 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.78077 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.111s)
+Simulation Time = 91
+(TCP) WAN Bytes received by server 1: 6889400 (0.605662 Mbps)
+(TCP) WAN Bytes received by server 2: 7768600 (0.682954 Mbps)
+(TCP) WAN Bytes received by both server : (1.28862 Mbps)
+(TCP) LTE Bytes received by server 1: 5912508 (0.519781 Mbps)
+(TCP) LTE Bytes received by server 2: 1892297 (0.166356 Mbps)
+(TCP) LTE Bytes received by both server : (0.686137 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.97475 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.089s)
+Simulation Time = 92
+(TCP) WAN Bytes received by server 1: 5678400 (0.493774 Mbps)
+(TCP) WAN Bytes received by server 2: 11082400 (0.963687 Mbps)
+(TCP) WAN Bytes received by both server : (1.45746 Mbps)
+(TCP) LTE Bytes received by server 1: 5464677 (0.475189 Mbps)
+(TCP) LTE Bytes received by server 2: 2794364 (0.242988 Mbps)
+(TCP) LTE Bytes received by both server : (0.718177 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.17564 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.966s)
+Simulation Time = 93
+(TCP) WAN Bytes received by server 1: 8069600 (0.694159 Mbps)
+(TCP) WAN Bytes received by server 2: 7980000 (0.686452 Mbps)
+(TCP) WAN Bytes received by both server : (1.38061 Mbps)
+(TCP) LTE Bytes received by server 1: 3612085 (0.310717 Mbps)
+(TCP) LTE Bytes received by server 2: 4412713 (0.379588 Mbps)
+(TCP) LTE Bytes received by both server : (0.690305 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.07092 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.945s)
+Simulation Time = 94
+(TCP) WAN Bytes received by server 1: 5653200 (0.481123 Mbps)
+(TCP) WAN Bytes received by server 2: 7918400 (0.673906 Mbps)
+(TCP) WAN Bytes received by both server : (1.15503 Mbps)
+(TCP) LTE Bytes received by server 1: 2645894 (0.225182 Mbps)
+(TCP) LTE Bytes received by server 2: 6656694 (0.566527 Mbps)
+(TCP) LTE Bytes received by both server : (0.79171 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 1.94674 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (33.106s)
+Simulation Time = 95
+(TCP) WAN Bytes received by server 1: 12868800 (1.08369 Mbps)
+(TCP) WAN Bytes received by server 2: 17554600 (1.47828 Mbps)
+(TCP) WAN Bytes received by both server : (2.56197 Mbps)
+(TCP) LTE Bytes received by server 1: 2865527 (0.241308 Mbps)
+(TCP) LTE Bytes received by server 2: 5129496 (0.431958 Mbps)
+(TCP) LTE Bytes received by both server : (0.673265 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 3.23524 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (11.738s)
+Simulation Time = 96
+(TCP) WAN Bytes received by server 1: 10416000 (0.868 Mbps)
+(TCP) WAN Bytes received by server 2: 12763800 (1.06365 Mbps)
+(TCP) WAN Bytes received by both server : (1.93165 Mbps)
+(TCP) LTE Bytes received by server 1: 4468006 (0.372334 Mbps)
+(TCP) LTE Bytes received by server 2: 3021080 (0.251757 Mbps)
+(TCP) LTE Bytes received by both server : (0.62409 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.55574 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.958s)
+Simulation Time = 97
+(TCP) WAN Bytes received by server 1: 11317600 (0.93341 Mbps)
+(TCP) WAN Bytes received by server 2: 6454000 (0.532289 Mbps)
+(TCP) WAN Bytes received by both server : (1.4657 Mbps)
+(TCP) LTE Bytes received by server 1: 4054961 (0.33443 Mbps)
+(TCP) LTE Bytes received by server 2: 4399849 (0.362874 Mbps)
+(TCP) LTE Bytes received by both server : (0.697304 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.163 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (13.217s)
+Simulation Time = 98
+(TCP) WAN Bytes received by server 1: 11023600 (0.899886 Mbps)
+(TCP) WAN Bytes received by server 2: 12125400 (0.989829 Mbps)
+(TCP) WAN Bytes received by both server : (1.88971 Mbps)
+(TCP) LTE Bytes received by server 1: 5087472 (0.415304 Mbps)
+(TCP) LTE Bytes received by server 2: 3494905 (0.285298 Mbps)
+(TCP) LTE Bytes received by both server : (0.700602 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.59032 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (24.164s)
+Simulation Time = 99
+(TCP) WAN Bytes received by server 1: 19044592 (1.53896 Mbps)
+(TCP) WAN Bytes received by server 2: 22804600 (1.8428 Mbps)
+(TCP) WAN Bytes received by both server : (3.38175 Mbps)
+(TCP) LTE Bytes received by server 1: 5029065 (0.406389 Mbps)
+(TCP) LTE Bytes received by server 2: 2724612 (0.220171 Mbps)
+(TCP) LTE Bytes received by both server : (0.62656 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 4.00831 Mbps
+Waf: Entering directory `/home/thienpham/Projects/source/ns-3.29/build'
+Waf: Leaving directory `/home/thienpham/Projects/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (18.248s)
+Simulation Time = 100
+(TCP) WAN Bytes received by server 1: 9268000 (0.74144 Mbps)
+(TCP) WAN Bytes received by server 2: 16686600 (1.33493 Mbps)
+(TCP) WAN Bytes received by both server : (2.07637 Mbps)
+(TCP) LTE Bytes received by server 1: 3004849 (0.240388 Mbps)
+(TCP) LTE Bytes received by server 2: 5146014 (0.411681 Mbps)
+(TCP) LTE Bytes received by both server : (0.652069 Mbps)
+(UDP) Bytes received by both server : (0 Mbps)
+(TCP+UDP) Total throughput: 2.72844 Mbps

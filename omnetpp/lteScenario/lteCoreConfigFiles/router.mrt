@@ -1,0 +1,11 @@
+# filename: server.mrt
+# author: Thomas Reschka
+# routing table for router of tcp example "extserver"
+
+
+route:
+
+#Destination     Gateway          Genmask          Flags  Metric  Iface
+10.1.2.0         *                255.255.255.0    G      0       ppp0
+
+routeend.
